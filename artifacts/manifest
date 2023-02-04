@@ -1,0 +1,58 @@
+[
+    {
+        "name": "DarthServoPenumbra-23.02.04",
+        "branch": "23.02.04",
+        "description": "### 2023 February 4",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoPenumbra.bin",
+        "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
+        "release_details": {
+            "version": "23.02.04",
+            "idf": "v4.3",
+            "platform": "DarthServoPenumbra",
+            "branch": "23.02.04"
+        },
+        "manifest_name": "DarthServoPenumbra-23.02.04-manifest.json"
+    },
+    {
+        "name": "DarthServoYoda-23.02.04",
+        "branch": "23.02.04",
+        "description": "### 2023 February 4",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoYoda.bin",
+        "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
+        "release_details": {
+            "version": "23.02.04",
+            "idf": "v4.3",
+            "platform": "DarthServoYoda",
+            "branch": "23.02.04"
+        },
+        "manifest_name": "DarthServoYoda-23.02.04-manifest.json"
+    },
+    {
+        "name": "DarthServoAmidala-23.02.04",
+        "branch": "23.02.04",
+        "description": "### 2023 February 4",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoAmidala.bin",
+        "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
+        "release_details": {
+            "version": "23.02.04",
+            "idf": "v4.3",
+            "platform": "DarthServoAmidala",
+            "branch": "23.02.04"
+        },
+        "manifest_name": "DarthServoAmidala-23.02.04-manifest.json"
+    },
+    {
+        "name": "DarthServoESP3216MB-23.02.04",
+        "branch": "23.02.04",
+        "description": "### 2023 February 4",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoESP3216MB.bin",
+        "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
+        "release_details": {
+            "version": "23.02.04",
+            "idf": "v4.3",
+            "platform": "DarthServoESP3216MB",
+            "branch": "23.02.04"
+        },
+        "manifest_name": "DarthServoESP3216MB-23.02.04-manifest.json"
+    }
+]

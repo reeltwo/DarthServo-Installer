@@ -1,0 +1,18 @@
+{
+    "name": "DarthServoYoda",
+    "version": "23.02.04",
+    "new_install_prompt_erase": true,
+    "new_install_improv_wait_time": 0,
+    "builds": [
+        {
+            "chipFamily": "ESP32",
+            "parts": [
+                {
+                    "path": "DarthServoYoda-23.02.04.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ],
+    "manifest_name": "DarthServoYoda-23.02.04-manifest.json"
+}
