@@ -42,17 +42,31 @@
         "manifest_name": "DarthServoAmidala-23.02.04-manifest.json"
     },
     {
-        "name": "DarthServoESP3216MB-23.02.04",
+        "name": "DarthServoGeneric16MB-23.02.04",
         "branch": "23.02.04",
         "description": "### 2023 February 4",
-        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoESP3216MB.bin",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoGeneric16MB.bin",
         "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
         "release_details": {
             "version": "23.02.04",
             "idf": "v4.3",
-            "platform": "DarthServoESP3216MB",
+            "platform": "DarthServoGeneric16MB",
             "branch": "23.02.04"
         },
-        "manifest_name": "DarthServoESP3216MB-23.02.04-manifest.json"
+        "manifest_name": "DarthServoGeneric16MB-23.02.04-manifest.json"
+    },
+    {
+        "name": "DarthServoGeneric4MB-23.02.04",
+        "branch": "23.02.04",
+        "description": "### 2023 February 4",
+        "url": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServoGeneric4MB.bin",
+        "zipfile": "https://github.com/reeltwo/DarthServo/releases/download/23.02.04/DarthServo.zip",
+        "release_details": {
+            "version": "23.02.04",
+            "idf": "v4.3",
+            "platform": "DarthServoGeneric4MB",
+            "branch": "23.02.04"
+        },
+        "manifest_name": "DarthServoGeneric4MB-23.02.04-manifest.json"
     }
 ]
